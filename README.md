@@ -93,3 +93,5 @@ where your project is in the folder `C:\Users\YourUser\path\to\learning_machines
 The environment variable `ROS_MASTER_URI` idendifies where the ROS MASTER NODE is running. Verify that your phone is in "Local ROS Master" and adjust the IP of the `ROS_MASTER_URI` variable with the address of the phone (visible at the first page of the application).
 
 The library we provide is already taking care of this enviroment variable, but in case you encouter any problems you know where to look for.
+
+## Test om te kijken of dit werkt
