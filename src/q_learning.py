@@ -135,7 +135,7 @@ class Agent:
         self.food_consumed = 0
 
         self.rob.play_simulation()
-        # self.rob.play_simulation()
+        self.rob.play_simulation()
         self.updateState()
         
 
